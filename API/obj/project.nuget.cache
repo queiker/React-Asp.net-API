@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lyw9ohgfRRUBeEycwH4EHfzkQ/rZaU4/0Q3LFuBePOodkvM8/KU5MSdaH6GSoZsaOFQs+SABkPzjwDR1LssE5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\queiker\\source\\React-Asp.net-API\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\queiker\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\queiker\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\queiker\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\queiker\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\queiker\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\queiker\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
